@@ -30,5 +30,5 @@ push_git_tags
 pod_lib_lint(allow_warnings: true)
 #    pod spec lint
 #    pod repo push XXX xxx.podspec
-pod_push(path: "#{targetName}.podspec", repo: "XMGFMSpecs")
+pod_push(path: "#{targetName}.podspec", repo: "XMGFMSpecs", allow_warnings: true)
 end

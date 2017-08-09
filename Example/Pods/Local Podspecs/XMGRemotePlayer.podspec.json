@@ -1,6 +1,6 @@
 {
   "name": "XMGRemotePlayer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "XMGRemotePlayer.",
   "description": "播放器，XMGRemotePlayer.",
   "homepage": "https://github.com/FKLam/XMGRemotePlayer",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/FKLam/XMGRemotePlayer.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

@@ -2,8 +2,8 @@
 //  XMGAudioDownLoader.m
 //  XMGRemotePlayerLib
 //
-//  Created by 小码哥 on 2016/11/27.
-//  Copyright © 2016年 小码哥. All rights reserved.
+//  Created by FKLam on 2016/11/27.
+//  Copyright © 2016年 FKLam. All rights reserved.
 //
 
 #import "XMGAudioDownLoader.h"
